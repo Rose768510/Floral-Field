@@ -1,0 +1,82 @@
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
+
+main{
+    width: 500px;
+    height: 92vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    top: 0;
+    left: 0;
+    font-size: 50px;
+}
+
+.establish{
+    text-align: center;
+    font-style: italic;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+h1{
+    font-style: oblique;
+    font-size: 50px;
+}
+
+h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.flower{
+    text-align: left;
+    width: 75%;
+}
+
+.price{
+    width: 25%;
+    text-align: right;
+}
+
+.service{
+    text-align: center;
+    font-size: 20px;
+}
+
+.deli{
+    text-align: center;
+    font-style: italic;
+    color:darkolivegreen;
+}
+
+.contact{
+    display: inline;
+}
+
+footer{
+    text-align: center;
+}
+
+.email{
+    color:cornflowerblue;
+}
+
+address{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
